@@ -63,7 +63,6 @@ const Dashboard = () => {
         <Details details={stockDetails} />
       </div>
       <footer className="absolute inset-x-0 bottom-0 h-8 text-center">
-        © 2022 A Rahman
       </footer>
     </div>
   );
